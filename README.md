@@ -123,7 +123,7 @@ These Wonder Cards are **unofficial recreations**.
 ## Credits
 
 - Wonder Card preservation: ProjectPokemon
-- Custom Unreleased Wonder Cards: Piplupness
+- Custom Unreleased Wonder Cards and their translations: Piplupness, neilo, mrthomas20121, NickPlayeZ, Choko, kallum_dx, Kdekalcio, sergiotarxz
 
 Pokémon is © Nintendo, Creatures Inc. and GAME FREAK inc. This is an
 unofficial fan project, not affiliated with or endorsed by Nintendo,
